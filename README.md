@@ -25,7 +25,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 ## Articles
 
->**How to Handle with Imbalanced Datasets** <br> A brief guide for beginners <br><br> link [Here](https://medium.com/@jpnunesoliv/how-to-handle-with-imbalanced-datasets-42c6989b4296)
+>**How to Handle with Imbalanced Datasets** <br> A brief guide for beginners <br><br> *Article posted on Medium with the objective of demonstrate some of the most popular techniques to solve the problem of Imbalanced Data, when modeling a Machine learning Algorithm.* <br><br> [Go to the article](https://medium.com/@jpnunesoliv/how-to-handle-with-imbalanced-datasets-42c6989b4296)
 
 
 <p align="center">
