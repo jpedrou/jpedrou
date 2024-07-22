@@ -25,7 +25,8 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 ## Articles
 
-> **How to Handle with Imbalanced Datasets** <br> <img align='right' width = '50' src = 'https://miro.medium.com/v2/resize:fit:720/format:webp/1*0fGAhsWdbu4Vk5gRe-770g.png'> A brief guide for beginners <br><br> link [Here](https://medium.com/@jpnunesoliv/how-to-handle-with-imbalanced-datasets-42c6989b4296)
+>**How to Handle with Imbalanced Datasets** <br> A brief guide for beginners <br><br> link [Here](https://medium.com/@jpnunesoliv/how-to-handle-with-imbalanced-datasets-42c6989b4296)
+
 
 <p align="center">
   <img width="800" height="200" src="https://streak-stats.demolab.com?user=jpedrou&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&theme=dracula">
