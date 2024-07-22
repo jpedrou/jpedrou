@@ -12,9 +12,9 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
 Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
 
 
-<h2>Data Science Competitions</h2>
+## Data Science Competitions
 
-| Name | Team | Result | Date |
+| Serie | Team | Result | Date |
 |-----|-----|-----| -----|
 |Playground Series - Season 3, Episode 22|Solo| top 31%|10/2023|
 |Playground Series - Season 3, Episode 23|Solo|top 30%|10/2023|
@@ -26,15 +26,14 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 - Access my kaggle profile by clicking [here](https://www.kaggle.com/jpedrou/code).
 
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=jpedrou&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&theme=dracula">
-</p>
 
+<p align="center">
+  <img width="800" height="200" src="https://streak-stats.demolab.com?user=jpedrou&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&theme=dracula">
+</p>
 
 ---
 
-
 <p align="center">
-  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=jpedrou&show_icons=true&theme=dracula">
-  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrou&theme=dracula">
+  <img height='200' src="https://github-readme-stats.vercel.app/api?username=jpedrou&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrou&theme=dracula">
 </p>
