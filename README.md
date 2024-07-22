@@ -12,7 +12,7 @@ Additionally, I have completed my studies in English, and my proficiency level i
 
 #### Socials
 
-[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/jpedroprofile/)[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />](https://www.kaggle.com/jpedrou/code)[<img width="40" src = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAZ0lEQVR4AWMYaYDTyYkTl9zaL///f1kLYh15lc3AEIQsd+s/GNxhYFgKpGRSXiHJLfwPBUsZPgLJKVO+IFnxESb50QlEHtn43wYuBxSBgRQQcWvXf0+8koSNJewgTK/gDwTM4BuhAAACZI0VtSewvAAAAABJRU5ErkJggg==">](https://medium.com/@jpnunesoliv)
+[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/jpedroprofile/)[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />](https://www.kaggle.com/jpedrou/code)[<img width="40" src = "https://miro.medium.com/v2/resize:fit:2400/1*6_fgYnisCa9V21mymySIvA.png">](https://medium.com/@jpnunesoliv)
 
 ## Data Science Competitions
 
