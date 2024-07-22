@@ -1,4 +1,4 @@
-
+<p align = 'center'><img src='https://komarev.com/ghpvc/?username=jpedrou&color=red'></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jpedrou&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
