@@ -2,6 +2,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jpedrou&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jpedrou&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 **About Me**
 
@@ -12,18 +14,20 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 <h2>Data Science Competitions</h2>
 
-| Competition | Result | Date |
-|-----|-----|-----|
-|Playground Series - Season 3, Episode 22|top 31%|10/2023|
-|Playground Series - Season 3, Episode 23|top 30%|10/2023|
-|Playground Series - Season 3, Episode 24|top 34%|11/2023|
-|Playground Series - Season 4, Episode 2|top 42%|02/2024|
+| Name | Team | Result | Date |
+|-----|-----|-----| -----|
+|Playground Series - Season 3, Episode 22|Solo| top 31%|10/2023|
+|Playground Series - Season 3, Episode 23|Solo|top 30%|10/2023|
+|Playground Series - Season 3, Episode 24|Solo|top 34%|11/2023|
+|Playground Series - Season 4, Episode 2|Solo|top 42%|02/2024|
 
-[Kaggle Profile](https://www.kaggle.com/jpedrou/code)
+<br>
+
+- Access my kaggle profile by clicking [here](https://www.kaggle.com/jpedrou/code).
 
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=jpedrou&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=jpedrou&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&theme=dracula">
 </p>
 
 
@@ -31,6 +35,6 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 
 <p align="center">
-  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=jpedrou&show_icons=true&theme=vision-friendly-dark">
-  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrou&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=jpedrou&show_icons=true&theme=dracula">
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrou&theme=dracula">
 </p>
