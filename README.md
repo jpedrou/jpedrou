@@ -23,7 +23,7 @@ Additionally, I have completed my studies in English, and my proficiency level i
 
 - Access my kaggle profile by clicking [here](https://www.kaggle.com/jpedrou/code).
 
-## Articles
+### Articles
 
 >**How to Handle with Imbalanced Datasets** <br> A brief guide for beginners <br><br> *Article posted on Medium with the objective of demonstrate some of the most popular techniques to solve the problem of Imbalanced Data, when modeling a Machine learning Algorithm.* <br><br> [Go to the article](https://medium.com/@jpnunesoliv/how-to-handle-with-imbalanced-datasets-42c6989b4296)
 
@@ -45,7 +45,8 @@ Additionally, I have completed my studies in English, and my proficiency level i
 ### OS
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 
-<br><br>
+<br>
+
 ---
 
 <br><br>
