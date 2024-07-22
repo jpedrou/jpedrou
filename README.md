@@ -34,6 +34,6 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 ---
 
 <p align="center">
-  <img height='200' src="https://github-readme-stats.vercel.app/api?username=jpedrou&show_icons=true&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrou&theme=dracula">
+  <img width='600' height='200' src="https://github-readme-stats.vercel.app/api?username=jpedrou&show_icons=true&theme=dracula">
+  <img width = '300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrou&theme=dracula">
 </p>
