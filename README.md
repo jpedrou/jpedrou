@@ -10,6 +10,12 @@ I am graduating in Information Technology Management and I am currently working 
 
 Additionally, I have completed my studies in English, and my proficiency level is now advanced. This combination of technical expertise and language skills allows me to effectively communicate and collaborate in a diverse, global environment.
 
+#### Socials
+
+[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+](https://www.linkedin.com/in/jpedroprofile/)[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
+](https://www.kaggle.com/jpedrou)[<img width="40" src = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAZ0lEQVR4AWMYaYDTyYkTl9zaL///f1kLYh15lc3AEIQsd+s/GNxhYFgKpGRSXiHJLfwPBUsZPgLJKVO+IFnxESb50QlEHtn43wYuBxSBgRQQcWvXf0+8koSNJewgTK/gDwTM4BuhAAACZI0VtSewvAAAAABJRU5ErkJggg==">](https://medium.com/@jpnunesoliv)
+
 ## Data Science Competitions
 
 | Serie                                    | Team | Result  | Date    |
