@@ -63,5 +63,5 @@ width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyte
 
 <p align="center">
   <img width='600' height='200' src="https://github-readme-stats.vercel.app/api?username=jpedrou&show_icons=true&theme=dracula"> <br><br>
-  <img width = '300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrou&theme=dracula">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrou&hide_progress=true&theme=dracula">
 </p>
