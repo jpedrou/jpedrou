@@ -12,8 +12,7 @@ Additionally, I have completed my studies in English, and my proficiency level i
 
 #### Socials
 
-[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-](https://www.linkedin.com/in/jpedroprofile/)
+[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/jpedroprofile/)[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />](https://www.kaggle.com/jpedrou/code)
 
 ## Data Science Competitions
 
