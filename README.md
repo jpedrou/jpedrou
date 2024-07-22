@@ -14,7 +14,7 @@ Additionally, I have completed my studies in English, and my proficiency level i
 
 [<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 ](https://www.linkedin.com/in/jpedroprofile/)[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
-](https://www.kaggle.com/jpedrou)[<img width="40" src = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAZ0lEQVR4AWMYaYDTyYkTl9zaL///f1kLYh15lc3AEIQsd+s/GNxhYFgKpGRSXiHJLfwPBUsZPgLJKVO+IFnxESb50QlEHtn43wYuBxSBgRQQcWvXf0+8koSNJewgTK/gDwTM4BuhAAACZI0VtSewvAAAAABJRU5ErkJggg==">](https://medium.com/@jpnunesoliv)
+](https://www.kaggle.com/jpedrou)<a href='https://medium.com/@jpnunesoliv'><img width="40" src = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAZ0lEQVR4AWMYaYDTyYkTl9zaL///f1kLYh15lc3AEIQsd+s/GNxhYFgKpGRSXiHJLfwPBUsZPgLJKVO+IFnxESb50QlEHtn43wYuBxSBgRQQcWvXf0+8koSNJewgTK/gDwTM4BuhAAACZI0VtSewvAAAAABJRU5ErkJggg=="></a>
 
 ## Data Science Competitions
 
