@@ -46,9 +46,6 @@ Additionally, I have completed my studies in English, and my proficiency level i
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" /><img width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" /><img
 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
 
-
-
-
 ### OS
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 
@@ -56,10 +53,10 @@ width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyte
 
 ---
 
-<br><br>
+<br>
 
 <p align="center">
-  <img width="800" height="200" src="https://streak-stats.demolab.com?user=jpedrou&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&theme=dracula">
+  <img width="800" src="https://streak-stats.demolab.com?user=jpedrou&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&theme=dracula">
 </p>
 
 <br>
