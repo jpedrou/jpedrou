@@ -14,7 +14,7 @@ Additionally, I have completed my studies in English, and my proficiency level i
 
 [<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/jpedroprofile/)[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />](https://www.kaggle.com/jpedrou/code)[<img width="40" src = "https://miro.medium.com/v2/resize:fit:2400/1*6_fgYnisCa9V21mymySIvA.png">](https://medium.com/@jpnunesoliv)
 
-## Data Science Competitions
+## Data Science Competitions <img width="40" src = "icons/trophy.png"/>
 
 | Serie                                    | Team | Result  | Date    |
 | ---------------------------------------- | ---- | ------- | ------- |
@@ -23,11 +23,7 @@ Additionally, I have completed my studies in English, and my proficiency level i
 | Playground Series - Season 3, Episode 24 | Solo | top 34% | 11/2023 |
 | Playground Series - Season 4, Episode 2  | Solo | top 42% | 02/2024 |
 
-<br>
-
-- Access my kaggle profile by clicking [here](https://www.kaggle.com/jpedrou/code).
-
-### Articles
+## Articles <img width="40" src = "icons/application.png"/>
 
 >**How to Handle with Imbalanced Datasets** <br> A brief guide for beginners <br><br> *Article posted on Medium with the objective of demonstrate some of the most popular techniques to solve the problem of Imbalanced Data, when modeling a Machine learning Algorithm.* <br><br> [Go to article](https://medium.com/@jpnunesoliv/how-to-handle-with-imbalanced-datasets-42c6989b4296)
 
