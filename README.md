@@ -1,6 +1,6 @@
 <p align ="center"><img src='https://komarev.com/ghpvc/?username=jpedrou&color=red'></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jpedrou&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jpedrou&theme=dark_lover#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jpedrou&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
