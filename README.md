@@ -59,10 +59,10 @@ Additionally, I have completed my studies in English, and my proficiency level i
 <br>
 
 <p align="center">
-  <img width="800" src="https://streak-stats.demolab.com?user=jpedrou&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&theme=dracula">
+  <img width="800" src="https://streak-stats.demolab.com?user=jpedrou&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&theme=neon">
 </p>
 
 <p align="center">
-  <img width='600' height='200' src="https://github-readme-stats.vercel.app/api?username=jpedrou&show_icons=true&theme=dracula"> <br><br>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrou&hide_progress=true&theme=dracula">
+  <img width='600' height='200' src="https://github-readme-stats.vercel.app/api?username=jpedrou&show_icons=true&theme=neon"> <br><br>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrou&hide_progress=true&theme=neon">
 </p>
