@@ -1,8 +1,8 @@
 <p align ="center"><img src='https://komarev.com/ghpvc/?username=jpedrou&color=red'></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jpedrou&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jpedrou&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jpedrou&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jpedrou&theme=high-contrast	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### About Me
 
@@ -59,10 +59,10 @@ Additionally, I have completed my studies in English, and my proficiency level i
 <br>
 
 <p align="center">
-  <img width="800" src="https://streak-stats.demolab.com?user=jpedrou&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&theme=transparent">
+  <img width="800" src="https://streak-stats.demolab.com?user=jpedrou&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&theme=swift">
 </p>
 
 <p align="center">
-  <img width='600' height='200' src="https://github-readme-stats.vercel.app/api?username=jpedrou&show_icons=true&theme=transparent"> <br><br>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrou&hide_progress=true&theme=transparent">
+  <img width='600' height='200' src="https://github-readme-stats.vercel.app/api?username=jpedrou&show_icons=true&theme=swift"> <br><br>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrou&hide_progress=true&theme=swift">
 </p>
