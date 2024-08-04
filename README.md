@@ -68,3 +68,11 @@ Additionally, I have completed my studies in English, and my proficiency level i
   <img width='600' height='200' src="https://github-readme-stats.vercel.app/api?username=jpedrou&show_icons=true&theme=dracula"> <br><br>
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrou&hide_progress=true&theme=dracula">
 </p>
+
+---
+
+ <h3 align = 'center'>Check my Repos</h3>
+<p align="center">
+  <img width='40'src="icons/arrow-down.png"> 
+
+</p>
