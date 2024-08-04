@@ -1,5 +1,5 @@
 <p align ="center"><img src='https://komarev.com/ghpvc/?username=jpedrou&style=for-the-badge&color=000000'></p>
-<p align ="center"><img src='https://img.shields.io/github/followers/jpedrou?label=follow&style=social'></p>
+<p align ="center"><a href="https://github.com/jpedrou"><img src='https://img.shields.io/github/followers/jpedrou?label=follow&style=social'></a></p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jpedrou&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
