@@ -1,7 +1,4 @@
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=jpedrou&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-### About Me
+<h3>About Me</h3>
 
 I am graduating in Information Technology Management and I am currently working as a junior data scientist and full stack developer. My passion for technology extends beyond my formal education, as I frequently study various IT subjects to stay updated with the latest trends and advancements in the field. 
 
@@ -18,14 +15,19 @@ I am graduating in Information Technology Management and I am currently working 
 
 </div>
 
-<br>
+##
 
----
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpedroprofile/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpedro.open@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jpedrou/code)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jpnunesoliv)
-
+<div style="display: inline_block"><br>
+  <a href="https://www.linkedin.com/in/jpedroprofile/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:jpedro.open@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.kaggle.com/jpedrou/code" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
+  <a href="https://medium.com/@jpnunesoliv" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+</div>
