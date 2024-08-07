@@ -5,7 +5,6 @@
 
 I am graduating in Information Technology Management and I am currently working as a junior data scientist and full stack developer. My passion for technology extends beyond my formal education, as I frequently study various IT subjects to stay updated with the latest trends and advancements in the field. 
 
-Additionally, I have completed my studies in English, and my proficiency level is now advanced. This combination of technical expertise and language skills allows me to effectively communicate and collaborate in a diverse, global environment.
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -19,11 +18,11 @@ Additionally, I have completed my studies in English, and my proficiency level i
 
 </div>
 
+<br>
 
+---
 
-
-#### Socials
-
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpedroprofile/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpedro.open@gmail.com)
