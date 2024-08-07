@@ -17,7 +17,7 @@ I am graduating in Information Technology Management and I am currently working 
 
 ##
 
-<div style="display: inline_block"><br>
+<div>
   <a href="https://www.linkedin.com/in/jpedroprofile/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
