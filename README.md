@@ -1,10 +1,8 @@
-<p align ="center"><img src='https://komarev.com/ghpvc/?username=jpedrou&style=for-the-badge&color=000000'></p>
-<p align ="center"><a href="https://github.com/jpedrou"><img src='https://img.shields.io/github/followers/jpedrou?label=follow&style=social'></a></p>
+<!-- <p align ="center"><img src='https://komarev.com/ghpvc/?username=jpedrou&style=for-the-badge&color=000000'></p>
+<p align ="center"><a href="https://github.com/jpedrou"><img src='https://img.shields.io/github/followers/jpedrou?label=follow&style=social'></a></p> -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jpedrou&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jpedrou&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jpedrou&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ### About Me
 
@@ -12,9 +10,15 @@ I am graduating in Information Technology Management and I am currently working 
 
 Additionally, I have completed my studies in English, and my proficiency level is now advanced. This combination of technical expertise and language skills allows me to effectively communicate and collaborate in a diverse, global environment.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jpedrou&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+
 #### Socials
 
-[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/jpedroprofile/)[<img width="40" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" />](mailto:jpedro.open@gmail.com)[<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />](https://www.kaggle.com/jpedrou/code)[<img width="40" src = "https://miro.medium.com/v2/resize:fit:2400/1*6_fgYnisCa9V21mymySIvA.png">](https://medium.com/@jpnunesoliv)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpedroprofile/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpedro.open@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jpedrou/code)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jpnunesoliv)
 
 ## Data Science Competitions <img width="40" src = "icons/trophy.png"/>
 
@@ -53,14 +57,14 @@ Additionally, I have completed my studies in English, and my proficiency level i
 | Windows | Linux | Ubuntu |
 |----------|----------|----------|
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />|<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />|<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-
+<!-- 
 <br>
 
 ---
 
-<br>
+<br> -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="800" src="https://streak-stats.demolab.com?user=jpedrou&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&theme=dracula">
 </p>
 
@@ -75,4 +79,4 @@ Additionally, I have completed my studies in English, and my proficiency level i
 <p align="center">
   <img width='40'src="icons/arrow-down.png"> 
 
-</p>
+</p> -->
