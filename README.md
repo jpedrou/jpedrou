@@ -1,4 +1,4 @@
-<h3>About Me</h3>
+### About Me
 
 I am graduating in Information Technology Management and I am currently working as a junior data scientist and full stack developer. My passion for technology extends beyond my formal education, as I frequently study various IT subjects to stay updated with the latest trends and advancements in the field. 
 
@@ -19,15 +19,15 @@ I am graduating in Information Technology Management and I am currently working 
 
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/jpedroprofile/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:jpedro.open@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.kaggle.com/jpedrou/code" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
   <a href="https://medium.com/@jpnunesoliv" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
 </div>
