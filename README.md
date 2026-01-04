@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey there 👋
 
-<!--
-**jpedrou/jpedrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm João Pedro Nunes Oliveira, Data Scientist, Full-Stack Dev and Cybersecurity Enthusiast, based in Brazil.
 
-Here are some ideas to get you started:
+I'm graduated in Information Technology Management and currently post-graduating in Artificial and Computacional Intelligence. Furthermore, I have over 2 years of experience in the technology field. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mostly work on Artificial Intelligence / Data Science and web apps projects using mainly python, MySQL and angular as programming languages.
+
+---
+
+### Tools & Tech
+
+- Linux (Ubuntu), Windows, Visual Studio Code
+- Figma, Notion, Obsidian
+- Python, MySQL, PHP
+- Vue, Angular, Shell (Bash/zsh)
